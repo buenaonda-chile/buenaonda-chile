@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Park%20Junho&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Junho%20Park&fontSize=70)
 
 <h3 align="center">👨‍💻 Tech Stack 👨‍💻</h3>
 
